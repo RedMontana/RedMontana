@@ -6,5 +6,5 @@ I’m a developer who enjoys working with C programming, focusing on Windows int
 
 ### What I’m Interested In:  
 - **C Programming**: Low-level coding
-- **Windows Internals**: Learning how the system work
+- **Windows Internals**: Learning how the system works
 - **Malware Development**: Researching and building
